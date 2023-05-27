@@ -1,2 +1,10 @@
-# CI-CD-Pos_Mackenzie
-Teste de CI e CD para Pós-Graduação do Mackenzie
+# maven-project
+
+Código de uma Webapp de Teste para Pós-Graduação BBTS - Mackenzie Brasília.
+
+
+
+Créditos para:
+
+Source code for James Lee's Jenkins course.
+
